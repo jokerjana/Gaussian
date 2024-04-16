@@ -22,6 +22,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
     RegisterNumber: 212223100014
 
 '''
+
+
    import numpy as np
    n=int(input())
    matrix=np.zeros((n,n+1))
