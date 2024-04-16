@@ -21,7 +21,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
     Developed by: JANARTHANAN B
     RegisterNumber: 212223100014
 
-'''
+
 
 
    import numpy as np
@@ -45,7 +45,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
     for i in range(n):
         print("X%d = %0.2f" %(i,x[i]),end=" ")
         
-
+'''
 ## Output:
 ![image](https://github.com/jokerjana/Gaussian/assets/147173630/aa10574d-51f5-4de1-b7df-78c8d2be4e93)
 
